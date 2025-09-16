@@ -1,4 +1,4 @@
-# MindEase AI - Mental Wellness Platform
+# CalmMind AI - Mental Wellness Platform
 
 **🧠 AI-Powered Mental Health Companion | Built with Flask,MySQL,TextBlob and HuggingFace **
 
